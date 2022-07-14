@@ -1,2 +1,3 @@
 # NETOLOGY-DEVOPS21
-first line
+first liту
+В файле .gitignore Каталог terraform Будут игнорироваться все файлы с буквосочетанием IGNORE
