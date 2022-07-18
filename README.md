@@ -26,3 +26,5 @@ override.tf.json
 # будут игнорироваться файлы конфигурации CLI
 .terraformrc
 terraform.rc
+
+# First commit via IDE
